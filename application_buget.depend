@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1693758180 source:c:\users\lulas\desktop\cpp\application_buget\auxiliarymethods.cpp
+	"AuxiliaryMethods.h"
+
+1693758155 c:\users\lulas\desktop\cpp\application_buget\auxiliarymethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+	<ctime>
+	<string>
+	<iomanip>
+	<chrono>
+
+1693756469 source:c:\users\lulas\desktop\cpp\application_buget\budgetapplication.cpp
+	"BudgetApplication.h"
+
+1693762889 c:\users\lulas\desktop\cpp\application_buget\budgetapplication.h
+	<iostream>
+	"UserManager.h"
+	"BudgetManager.h"
+
+1693762680 c:\users\lulas\desktop\cpp\application_buget\usermanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	"User.h"
+	"FileWithUsers.h"
+
+1691250652 c:\users\lulas\desktop\cpp\application_buget\user.h
+	<iostream>
+	<vector>
+	<string>
+
+1693762680 c:\users\lulas\desktop\cpp\application_buget\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"User.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+	"Markup.h"
+
+1691249335 c:\users\lulas\desktop\cpp\application_buget\textfile.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1693689207 source:c:\users\lulas\desktop\cpp\application_buget\filewithusers.cpp
+	"FileWithUsers.h"
+
+1693757389 source:c:\users\lulas\desktop\cpp\application_buget\main.cpp
+	<iostream>
+	"BudgetApplication.h"
+	"Markup.h"
+
+1691249320 source:c:\users\lulas\desktop\cpp\application_buget\textfile.cpp
+	"TextFile.h"
+
+1691248107 source:c:\users\lulas\desktop\cpp\application_buget\user.cpp
+	"User.h"
+
+1693689315 source:c:\users\lulas\desktop\cpp\application_buget\usermanager.cpp
+	"UserManager.h"
+
+1693745806 source:c:\users\lulas\desktop\cpp\application_buget\budget.cpp
+	"Budget.h"
+
+1693745783 c:\users\lulas\desktop\cpp\application_buget\budget.h
+	<iostream>
+	<vector>
+	<string>
+
+1693763487 source:c:\users\lulas\desktop\cpp\application_buget\budgetmanager.cpp
+	"BudgetManager.h"
+
+1693762889 c:\users\lulas\desktop\cpp\application_buget\budgetmanager.h
+	<iostream>
+	<vector>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<ctime>
+	<algorithm>
+	"Budget.h"
+	"ExpenseFile.h"
+	"IncomeFile.h"
+
+1692096213 c:\users\lulas\desktop\cpp\application_buget\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1692096213 source:c:\users\lulas\desktop\cpp\application_buget\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1693508895 source:c:\users\lulas\desktop\cpp\application_buget\budgetfile.cpp
+	"BudgetFile.h"
+
+1693510780 c:\users\lulas\desktop\cpp\application_buget\budgetfile.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Budget.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+	"Markup.h"
+
+1693762829 c:\users\lulas\desktop\cpp\application_buget\incomefile.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Budget.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+	"Markup.h"
+
+1693744472 source:c:\users\lulas\desktop\cpp\application_buget\incomefile.cpp
+	"IncomeFile.h"
+
+1693762889 c:\users\lulas\desktop\cpp\application_buget\expensefile.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	"Budget.h"
+	"AuxiliaryMethods.h"
+	"TextFile.h"
+	"Markup.h"
+
+1693744455 source:c:\users\lulas\desktop\cpp\application_buget\expensefile.cpp
+	"ExpenseFile.h"
+
